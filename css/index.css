@@ -535,7 +535,7 @@ blockquote p {
 .author-avatar img {
   width: 100%;
   max-width: 160px;
-  border-radius: 10%;
+  border-radius: 5%;
 }
 .author-discrip {
   display: table-cell;
